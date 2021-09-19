@@ -8,3 +8,7 @@ Crear carpeta Schemas por si mismo en forma local
 Docker postgres 12.4.x
 Crea carpetas en el docker y solo se ingresa con password.
 
+Docker mongodb 4.2.9-bionic
+
+
+
