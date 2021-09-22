@@ -3,7 +3,7 @@ services:
   postgres:
     build:
       context: .
-      dockerfile: dockerfile
+      dockerfile: Dockerfile
     container_name: postgres
     restart: always
     ports:
