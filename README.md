@@ -10,5 +10,11 @@ Crea carpetas en el docker y solo se ingresa con password.
 
 Docker mongodb 4.2.9-bionic
 
+# Comandos para crear Docker:
+
+Desde Consola :  docker-compose up -d
+
+
+
 
 
