@@ -9,7 +9,7 @@ services:
     ports:
       - 15432:5432
     environment: 
-      POSTGRES_PASSWORD: "passa"
+      POSTGRES_PASSWORD: "passab"
       PGDATA: /var/lib/postgresql/data/pgdata 
     volumes:
       - pgdata:/var/lib/postgresql/data
